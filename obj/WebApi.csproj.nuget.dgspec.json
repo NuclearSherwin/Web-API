@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#-projects\\web-api\\WebApi\\WebApi\\WebApi.csproj": {}
+    "E:\\c#-projects\\web-api\\WebAPI\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "E:\\c#-projects\\web-api\\WebApi\\WebApi\\WebApi.csproj": {
+    "E:\\c#-projects\\web-api\\WebAPI\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#-projects\\web-api\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "E:\\c#-projects\\web-api\\WebAPI\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "E:\\c#-projects\\web-api\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "E:\\c#-projects\\web-api\\WebAPI\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\phong\\.nuget\\packages\\",
-        "outputPath": "E:\\c#-projects\\web-api\\WebApi\\WebApi\\obj\\",
+        "outputPath": "E:\\c#-projects\\web-api\\WebAPI\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phong\\AppData\\Roaming\\NuGet\\NuGet.Config",
